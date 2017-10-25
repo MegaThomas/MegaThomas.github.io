@@ -3,6 +3,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://MegaThomas.github.io/post/prologue/</loc>
+    <lastmod>2017-10-25T17:01:30-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://MegaThomas.github.io/categories/</loc>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
@@ -10,6 +17,14 @@
   
   <url>
     <loc>http://MegaThomas.github.io/</loc>
+    <lastmod>2017-10-25T17:01:30-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://MegaThomas.github.io/post/</loc>
+    <lastmod>2017-10-25T17:01:30-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>

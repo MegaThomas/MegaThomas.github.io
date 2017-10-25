@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: http://MegaThomas.github.io/sitemap.xml
